@@ -48182,10 +48182,10 @@
   },
   {
     "id": "tradecraft",
-    "name": "Tradecraft",
+    "name": "Fieldkit",
     "author": "Michael Boyle",
     "description": "Contextual backlinks, readable Daily Note dates, compact week navigation, and a continuous desktop timeline. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "mboyle/obsidian-tradecraft"
+    "repo": "tradecraftso/fieldkit"
   },
   {
     "id": "wadjet",
